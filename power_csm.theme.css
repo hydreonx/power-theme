@@ -1,0 +1,61 @@
+/**
+ * @name power_csm
+ * @authorId 906296858664648725
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700&display=swap');
+@import url('https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css');
+@import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+@import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
+
+:root {
+  --background-image: url('https://c4.wallpaperflare.com/wallpaper/960/587/732/power-chainsaw-man-chainsaw-man-manga-hd-wallpaper-preview.jpg');
+  --background-image-blur: 5px;
+  --background-image-size: cover;
+  --background-image-position: center;
+  --popout-image: transparent;
+  --popout-image-blur: 4px;
+  --popout-image-size: 225%;
+  --popout-image-position: Bottom left;
+  --overlay-image: transparent;
+  --overlay-image-blur: 5px;
+  --overlay-image-size: 200%;
+  --overlay-image-position: top left;
+  --home-button-image: url('https://gibbu.github.io/BetterDiscord-Themes/FrostedGlass/assets/discord.svg');
+  --home-button-size: cover;
+  --home-button-position: center;
+  --serverlist-brightness: 0.8;
+  --left-brightness: 0.8;
+  --middle-brightness: 0.62;
+  --right-brightness: 0.16;
+  --overlay-brightness: 0.36;
+  --gradient-primary: 47,36,68;
+  --gradient-secondary: 34,50,136;
+  --link-colour: #00B8FF;
+  --scrollbar-colour: rgba(255,255,255,0.05);
+  --gradient-direction: 360deg;
+  --tint-colour: 0,0,0;
+  --tint-brightness: 0;
+  --font: Roboto;
+  --window-padding: 0px;
+  --window-roundness: 0px;
+  --update-notice-1: none;
+  --rs-small-spacing: 2px;
+  --rs-medium-spacing: 2px;
+  --rs-large-spacing: 2px;
+  --rs-small-width: 2px;
+  --rs-medium-width: 2px;
+  --rs-large-width: 2px;
+  --rs-avatar-shape: 50%;
+  --rs-online-color: #43b581;
+  --rs-idle-color: #faa61a;
+  --rs-dnd-color: #f04747;
+  --rs-offline-color: #636b75;
+  --rs-streaming-color: #643da7;
+  --rs-phone-visible: block;
+}
+
+/* Any custom CSS below here */
+
+
